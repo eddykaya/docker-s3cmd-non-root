@@ -1,6 +1,6 @@
 # s3cmd non root docker image
 
-This docker image contains the well known (https://s3tools.org/usage)[s3cmd] cli to interact with s3 objct storages.
+This docker image contains the well known [s3cmd](https://s3tools.org/usage) cli to interact with s3 objct storages.
 The image is executed as non root which might be useful for restricted environments
 
 # Usage
